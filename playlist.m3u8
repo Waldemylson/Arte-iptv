@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3600
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:3600,
+https://raw.githubusercontent.com/Waldemylson/Arte-iptv/main/InShot_20260210_112222354.mp4
+#EXT-X-ENDLIST
